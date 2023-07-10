@@ -13,4 +13,4 @@
   - https://github.com/mlpack/mlpack/issues/2775                                                                
 
 ### Test                                                              
-$ build/ARM/gem5.opt --debug-flags=Exec,-ExecSymbol configs/example/se.py --cmd=tests/test-progs/hello/bin/arm/linux/hello
+- $ build/ARM/gem5.opt --debug-flags=Exec,-ExecSymbol configs/example/se.py --cmd=tests/test-progs/hello/bin/arm/linux/hello
