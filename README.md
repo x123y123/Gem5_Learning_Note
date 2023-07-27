@@ -11,7 +11,7 @@ $ sudo apt install build-essential git m4 scons zlib1g zlib1g-dev \
 $ git clone https://gem5.googlesource.com/public/gem5
 $ util/pre-commit-install.sh
 $ python3 \`which scons\` build/ARM/gem5.opt -j1
-#https://github.com/mlpack/mlpack/issues/2775
+# https://github.com/mlpack/mlpack/issues/2775
 ```
   
 ## How to run it on Ubuntu 18.04
@@ -23,6 +23,7 @@ $ sudo apt install build-essential git m4 scons zlib1g zlib1g-dev \
 $ git clone https://github.com/gem5/gem5
 $ scons build/{ISA}/gem5.{variant} -j {cpus}
 $ ./build/{ISA}/gem5.{variant} [gem5 options] {simulation script} [script options]
+# https://www.gem5.org/documentation/general_docs/building
 ```
 
 ### Test                                                              
