@@ -10,6 +10,7 @@ $ sudo apt install build-essential git m4 scons zlib1g zlib1g-dev \
     libpng-dev libhdf5-serial-dev
 $ git clone https://gem5.googlesource.com/public/gem5
 $ util/pre-commit-install.sh
+# If report pre-commit error, try "pip install -r requirements.txt"
 $ python3 `which scons` build/ARM/gem5.opt -j1
 # https://github.com/mlpack/mlpack/issues/2775
 ```
