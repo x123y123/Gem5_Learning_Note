@@ -1,6 +1,6 @@
 # Two-level cache
 ## System arch
-<img align="center" src="https://github.com/x123y123/Gem5_Learning_Note/blob/main/two_level_cache/image/system_arch.jpg" width="500" height="800">
+<img align="center" src="https://github.com/x123y123/Gem5_Learning_Note/blob/main/two_level_cache/image/system_arch.jpg" width="500" height="700">
 
 ## Method
 * Cache Simobjection we can find in `src/mem/cache/Cache.py`
