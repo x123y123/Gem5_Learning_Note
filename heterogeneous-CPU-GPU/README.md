@@ -1,5 +1,24 @@
 # Heterogeneous CPU-GPU
 
+## Docker command
+```shell
+# Docker container image
+$ sudo docker images
+
+# Run container
+$ sudo docker run --name gem5-gpu -it $IMAGE_ID
+
+# Install something in docker
+$ apt-get update
+
+# Exit docker
+$ exit
+
+# If container running in background, use the following command
+$ docker attach gem5-gpu
+```
+
+
 ## Set the env
 * x86 thinkpad notebook
 ```shell
