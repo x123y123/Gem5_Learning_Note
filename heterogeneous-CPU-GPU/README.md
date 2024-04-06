@@ -15,7 +15,7 @@ $ apt-get update
 $ exit
 
 # If container running in background, use the following command
-$ docker attach gem5-gpu
+$ sudo docker attach gem5-gpu
 ```
 
 
