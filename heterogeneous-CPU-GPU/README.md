@@ -16,6 +16,13 @@ $ exit
 
 # If container running in background, use the following command
 $ sudo docker attach gem5-gpu
+
+# Check all containers
+$ sudo docker ps -a
+
+# Start the container
+$ sudo docker start [container ID]
+
 ```
 
 
