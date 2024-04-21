@@ -1,4 +1,8 @@
 # Different system config with coremark profiling
+## Architecture
+|simple(non-cache)|tow-level-cache|
+|-----------------|---------------|
+|<img align="center" src="https://github.com/x123y123/Gem5_Learning_Note/blob/main/coremark_perf_diff_arch/simple/config.dot.svg" width="500" height="700">|<img align="center" src="https://github.com/x123y123/Gem5_Learning_Note/blob/main/coremark_perf_diff_arch/twolevel/config.dot.svg" width="500" height="700">|
 
 ## Result in coremark
 |Architecture|Result|Number of iterations per second|
