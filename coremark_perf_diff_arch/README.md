@@ -3,7 +3,7 @@
 ## Result in coremark
 |simple|two_level_cache|
 |------|---------------|
-|gem5 Simulator System.  https://www.gem5.org  
+|gem5 Simulator System.  https://www.gem5.org<br\>  
 gem5 is copyrighted software; use the --copyright option for details.  
 gem5 version 22.1.0.0
 gem5 compiled Apr 21 2024 17:50:34
