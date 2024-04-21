@@ -3,8 +3,13 @@
 ## Result in coremark
 |simple|two_level_cache|
 |------|---------------|
-|gem5 Simulator System.  https://www.gem5.org \gem5 is copyrighted software; use the --copyright option for details. \gem5 version 22.1.0.0 \gem5 compiled Apr 21 2024 17:50:34 \gem5 started Apr 21 2024 19:31:20 \gem5 executing on tony-ThinkPad-X13-Gen-3, pid 271918
-\ command line: build/X86/gem5.opt --outdir=simple configs/learning_gem5/part1/simple.py
+|gem5 Simulator System.  https://www.gem5.org  
+gem5 is copyrighted software; use the --copyright option for details.  
+gem5 version 22.1.0.0
+gem5 compiled Apr 21 2024 17:50:34
+gem5 started Apr 21 2024 19:31:20
+gem5 executing on tony-ThinkPad-X13-Gen-3, pid 271918
+command line: build/X86/gem5.opt --outdir=simple configs/learning_gem5/part1/simple.py
 
 Global frequency set at 1000000000000 ticks per second
 build/X86/mem/dram_interface.cc:690: warn: DRAM device capacity (8192 Mbytes) does not match the address range assigned (512 Mbytes)
